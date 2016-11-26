@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "54577843787",
+    "firebase_url": "https://internetofplants-ba85c.firebaseio.com",
+    "project_id": "internetofplants-ba85c",
+    "storage_bucket": "internetofplants-ba85c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54577843787:android:25468e66dc98e1d0",
+        "android_client_info": {
+          "package_name": "com.example.root.iopfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54577843787-f4f9gtsoicrua9u50oa79mvor7cnduan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh2mVYhu_WrwUAEZYTfFCNOEw55rFuflI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54577843787:android:fb5a245e6666218b",
+        "android_client_info": {
+          "package_name": "com.wxyz.root.iop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54577843787-f4f9gtsoicrua9u50oa79mvor7cnduan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh2mVYhu_WrwUAEZYTfFCNOEw55rFuflI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
